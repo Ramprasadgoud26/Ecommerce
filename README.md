@@ -13,3 +13,5 @@ An **E-commerce platform** built using **PHP, CSS, and MySQL**, featuring user a
 - **Backend:** PHP  
 - **Database:** MySQL  
 
+
+![image alt](https://github.com/Ramprasadgoud26/Ecommerce/blob/1df9d708dfaec4cb7daa36f59fc7b1054baef508/localhost_ecommerce_index.php.png)
